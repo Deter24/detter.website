@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Détèr - Maison d'Édition</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Détèr - Maison d'Édition</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="about.html">À propos</a></li>
+                <li><a href="projects.html">Projets</a></li>
+                <li><a href="events.html">Événements</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Bienvenue chez Détèr</h2>
+            <p>Les éditions Détèr, pour un climat de soin. Petite maison d’édition de terrain, ancrée dans la réalité, engagée et éclectique.</p>
+        </section>
+        <section>
+            <h2>Qui sommes-nous ?</h2>
+            <p>Détèr, petite maison d’édition de terrain, entend donner une voix - des voix - à ces projets qui, par leur ambition, les moyens, les méthodes déployées et les personnalités qui les portent, contribuent à changer les choses et instaurent un climat de soin.</p>
+            <p>Détèr est ainsi un projet d’édition ancré sur le terrain, engagé et éclectique. Nous proposons des expositions, des événements, des dîners ou même des petites formes de spectacle. Des objets, du mobilier, des livres, des recettes. Mais aussi des ouvrages, une revue ou un podcast.</p>
+        </section>
+        <section>
+            <h2>Nos objectifs</h2>
+            <ul>
+                <li>Interroger, réinventer, dé-construire.</li>
+                <li>Penser la création en dehors des carcans traditionnels.</li>
+                <li>Militer joyeusement et intelligemment.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Détèr. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
