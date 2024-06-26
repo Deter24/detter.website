@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projets - Détèr</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Nos Projets</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="about.html">À propos</a></li>
+                <li><a href="projects.html">Projets</a></li>
+                <li><a href="events.html">Événements</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>En cours de construction</h2>
+            <p>Cette section est actuellement en cours de construction. Revenez bientôt pour plus d'informations.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Détèr. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
